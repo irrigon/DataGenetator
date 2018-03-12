@@ -1,0 +1,10 @@
+DELETE FROM Agreement;
+DELETE FROM AgreementSign;
+DELETE FROM Build;
+DELETE FROM Building;
+DELETE FROM Payment;
+DELETE FROM Person;
+DELETE FROM Denunciation;
+DELETE FROM Equipment;
+DELETE FROM Flat;
+DELETE FROM Subcontractor;

@@ -1,0 +1,13 @@
+Baja California Sur	La Paz	Álvaro Obregón
+Baja California Sur	La Paz	Iztapalapa
+Baja California Sur	La Paz	Tláhuac
+Baja California Sur	La Paz	Venustiano Carranza
+México	Toluca de Lerdo	Coyoacán
+México	Toluca de Lerdo	Gustavo A. Madero
+México	Toluca de Lerdo	Iztacalco
+México	Toluca de Lerdo	Magdalena Contreras
+México	Toluca de Lerdo	Tlalpan
+Tabasco	Villahermosa	Azcapotzalco
+Tabasco	Villahermosa	Cuauhtémoc
+Tabasco	Villahermosa	Milpa Alta
+Veracruz	Jalapa Enríquez	Miguel Hidalgo
